@@ -1,0 +1,3 @@
+[submodule "page-resources"]
+	path = page-resources
+	url = https://github.com/pete-the-programmer/page-resources.git
