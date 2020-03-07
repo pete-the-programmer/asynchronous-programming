@@ -4,7 +4,7 @@ title: Async Programming
 description: The runsheet
 ---
 
-- [Intro](/){:target="_present"}
+- [Intro](../){:target="_present"}
 - [Ice-breaker](Ice-breaker){:target="_present"} - blocking on I/O
 - [Problem definition](Sync){:target="_present"}
 - [Threads](Threads){:target="_present"} - with join
