@@ -18,9 +18,9 @@ sequenceDiagram
 </div>
 
 
-````csharp
+```cs
 class Me{
-    Slow _slow = new Slow();
+    private Slow _slow = new Slow();
 
     public bool DoSomething(int id){
         _slow.GetData(id, this.Callback);
